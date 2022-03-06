@@ -5,11 +5,9 @@ I am an employee with access to sensitive data and my goal is to generate a stro
 
 ## Built With
 * HTML
-* CSS
 * JS
 
 ## Images
-
 ![](assets/images/sample.png)
 
 ## Website
