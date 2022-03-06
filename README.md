@@ -10,7 +10,7 @@ I am an employee with access to sensitive data and my goal is to generate a stro
 
 ## Images
 
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![](assets/images/sample.png)
 
 ## Website
 https://gisewaltzer.github.io/password-generator/
